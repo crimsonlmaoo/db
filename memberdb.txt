@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "username": "kek3",
+      "userId": "1200912953952714862",
+      "description": "Leader of the RM modding group, I get told I have a big ego but meh who cares anyway I now mostly help new-gen modders learn how to mod, and help them mod games in general, instead of making my own cuz I’m too lazy for anything rlly",
+      "avatar": "https://cdn.discordapp.com/avatars/1200912953952714862/ee447a941eab334806644c127fdf06c9.webp?size=1024",
+      "style": "gold-bloom-card"
+    },
+    {
+      "username": "!Bonk!",
+      "userId": "757280714667458631",
+      "description": "A unity dev, and mostly just chill.",
+      "avatar": "https://cdn.discordapp.com/avatars/757280714667458631/6ad414e0dbb4670f0440e110c2fce9ba.webp?size=1024"
+    },
+    {
+      "username": "Ghostyy.",
+      "userId": "1077377651225927790",
+      "description": "",
+      "avatar": "https://cdn.discordapp.com/avatars/1077377651225927790/a_8382a76baf1ead92e34749390ee415ec.gif?size=1024"
+    },
+    {
+      "username": "crimson?",
+      "userId": "800491881922428949",
+      "description": "c#, some javascript, html, css, and a little python. made PFMT, and PCIM. also the creator of this site.",
+      "avatar": "https://cdn.discordapp.com/avatars/800491881922428949/368f56893c635da6ed680b326c56371f.webp?size=1024",
+      "style": "red-bloom-card"
+    },
+    {
+      "username": "ByteSU",
+      "userId": "1227038678577188866",
+      "description": "",
+      "avatar": "https://cdn.discordapp.com/avatars/1227038678577188866/81f06fb2faedb3a68aae84dc6d487b89.webp?size=1024"
+    },
+    {
+      "username": "Makkan",
+      "userId": "1348173734128652409",
+      "description": "",
+      "avatar": "https://cdn.discordapp.com/avatars/1348173734128652409/85f2f20f7f2d582005830f25156b0579.webp?size=1024"
+    },
+    {
+      "username": "skire",
+      "userId": "1208535500550438933",
+      "description": "",
+      "avatar": "https://cdn.discordapp.com/avatars/1208535500550438933/00ddc0ead3249b66c057b5058a18f681.webp?size=1024"
+    },
+    {
+      "username": "Wolk",
+      "userId": "1327667430541099023",
+      "description": "",
+      "avatar": "https://cdn.discordapp.com/avatars/1327667430541099023/a364f7d65a4c2691b936a7070c2c8b7c.webp?size=1024"
+    },
+    {
+      "username": "oxg",
+      "userId": "1055188184524406804",
+      "description": "Leader of .soul, been modding for over 3 years, exploiting and destroying games for over 8 years. Knows C# And Python",
+      "avatar": "https://cdn.discordapp.com/avatars/1055188184524406804/bfb999a75383cffb8960cddd5d077e7e.webp?size=1024"
+    }
+  ]
+}
