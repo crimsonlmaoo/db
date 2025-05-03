@@ -23,7 +23,7 @@
       "username": "crimson?",
       "userId": "800491881922428949",
       "description": "c#, some javascript, html, css, and a little python. made PFMT, and PCIM. also the creator of this site.",
-      "avatar": "https://cdn.discordapp.com/avatars/800491881922428949/368f56893c635da6ed680b326c56371f.webp?size=1024",
+      "avatar": "https://cdn.discordapp.com/avatars/800491881922428949/80bec401b75a6ff17c1f9e8142bcd4d1.webp?size=1024",
       "style": "red-bloom-card"
     },
     {
@@ -54,7 +54,7 @@
       "username": "oxg",
       "userId": "1055188184524406804",
       "description": "Leader of .soul, been modding for over 3 years, exploiting and destroying games for over 8 years. Knows C# And Python",
-      "avatar": "https://cdn.discordapp.com/avatars/1055188184524406804/bfb999a75383cffb8960cddd5d077e7e.webp?size=1024"
+      "avatar": "https://cdn.discordapp.com/avatars/1055188184524406804/d0c4bb2955a1db56aa96d0ddfe7595c3.webp?size=1024"
     }
   ]
 }
