@@ -29,7 +29,7 @@
     {
       "username": "ByteSU",
       "userId": "1227038678577188866",
-      "description": "",
+      "description": "Gets called MOMMY BYTESU",
       "avatar": "https://cdn.discordapp.com/avatars/1227038678577188866/81f06fb2faedb3a68aae84dc6d487b89.webp?size=1024"
     },
     {
