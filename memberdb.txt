@@ -18,7 +18,6 @@
       "userId": "1077377651225927790",
       "description": "Unc Basically, going on collage campus in a few months and is 6'4 ",
       "avatar": "https://cdn.discordapp.com/avatars/1077377651225927790/a_8382a76baf1ead92e34749390ee415ec.gif?size=1024"
-      "style": "gold-bloom-card"
     },
     {
       "username": "crimson?",
