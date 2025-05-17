@@ -10,5 +10,11 @@
     "description": "simple update checker for any app ids on the meta/oculus in the db.json file and for anything on the OculusDB api. also allows a few more extra commands. thanks to skire for inspiration to even make this (he showed his old ui for one of his trackers, hes the reason i made this!) v2 will include a webhook and bot feature.",
     "modifiedBy": "RM (made not modded)",
     "downloadUrl": "https://cdn.discordapp.com/attachments/1368239313422258216/1368239313695019018/rmupdatetracker.zip?ex=68177fa9&is=68162e29&hm=c2eeabe70ed6b12a53e0341624cae2d2782c62d1d519d195a0fccca5b97881a1&"
+  },
+  {
+    "name": "RM Executor",
+    "description": "simple roblox executor created by crimson.cs for RM.",
+    "modifiedBy": "RM (made not modded)",
+    "downloadUrl": "https://cdn.discordapp.com/attachments/1350710444976771073/1370965803771498506/RMExec_v1.2.zip?ex=6829fca6&is=6828ab26&hm=b9a9fe93521d7eef8b5781d9fac50f72188946a37e6f5f9be48fb9bfc8089e41&"
   }
 ]
