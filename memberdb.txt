@@ -23,14 +23,14 @@
       "username": "crimson?",
       "userId": "800491881922428949",
       "description": "c#, some javascript, html, css, and a little python. made PFMT, and PCIM. also the creator of this site.",
-      "avatar": "https://cdn.discordapp.com/avatars/800491881922428949/80bec401b75a6ff17c1f9e8142bcd4d1.webp?size=1024",
+      "avatar": "https://cdn.discordapp.com/avatars/800491881922428949/c1776ae89e3116b1e76e176a4b0dad8c.webp?size=1024",
       "style": "red-bloom-card"
     },
     {
       "username": "ByteSU",
       "userId": "1227038678577188866",
       "description": "Gets called MOMMY BYTESU",
-      "avatar": "https://cdn.discordapp.com/avatars/1227038678577188866/0b5b08a3d847f527ae98ff9664580779.webp?size=1024"
+      "avatar": "https://cdn.discordapp.com/avatars/1227038678577188866/d8d21b1350c53dbc8fc18b50607f255f.webp?size=1024",
     },
     {
       "username": "Makkan",
@@ -45,15 +45,15 @@
       "avatar": "https://cdn.discordapp.com/avatars/1208535500550438933/00ddc0ead3249b66c057b5058a18f681.webp?size=1024"
     },
     {
-      "username": "Wolk",
+      "username": "Wolk (inactive)",
       "userId": "1327667430541099023",
       "description": "",
       "avatar": "https://cdn.discordapp.com/avatars/1327667430541099023/a364f7d65a4c2691b936a7070c2c8b7c.webp?size=1024"
     },
     {
-      "username": "oxg",
+      "username": "oxg (quit, deleted account.",
       "userId": "1055188184524406804",
-      "description": "Leader of .soul, been modding for over 3 years, exploiting and destroying games for over 8 years. Knows C# And Python",
+      "description": "Gone. Deleted his account.",
       "avatar": "https://cdn.discordapp.com/avatars/1055188184524406804/d0c4bb2955a1db56aa96d0ddfe7595c3.webp?size=1024"
     }
   ]
