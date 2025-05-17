@@ -3,7 +3,7 @@
     "name": "Orangu VR",
     "description": "Mod room, kick hammer, owner hat, booster badge, anti ban. join a lobby for 10 seconds, delete game, install apk. staff stuff is in shop, go to shop, make a left, you should see a player model, click the check marks, boom you have owner and staff stuff.",
     "creator": "Ghostyy.",
-    "status": "working",
+    "status": "patched",
     "downloadUrl": "https://gofile.io/d/WlR9Wl"
   }
 ]
