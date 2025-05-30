@@ -31,7 +31,7 @@
       "username": "ByteSU",
       "userId": "1227038678577188866",
       "description": "Gets called MOMMY BYTESU",
-      "avatar": "https://cdn.discordapp.com/avatars/1227038678577188866/d8d21b1350c53dbc8fc18b50607f255f.webp?size=1024",
+      "avatar": "https://cdn.discordapp.com/avatars/1227038678577188866/d8d21b1350c53dbc8fc18b50607f255f.webp?size=1024"
     },
     {
       "username": "Makkan",
