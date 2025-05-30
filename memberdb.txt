@@ -17,14 +17,13 @@
       "username": "Ghostyy.",
       "userId": "1077377651225927790",
       "description": "Unc Basically, going on collage campus in a few months and is 6'4",
-      "avatar": "https://cdn.discordapp.com/avatars/1077377651225927790/a_8382a76baf1ead92e34749390ee415ec.gif?size=1024",
-      "style": "red-bloom-card"
+      "avatar": "https://cdn.discordapp.com/avatars/1077377651225927790/a_8382a76baf1ead92e34749390ee415ec.gif?size=1024"
     },
     {
-      "username": "crimson?",
+      "username": "crimson",
       "userId": "800491881922428949",
       "description": "c#, some javascript, html, css, and a little python. made PFMT, and PCIM. also the creator of this site.",
-      "avatar": "https://cdn.discordapp.com/avatars/800491881922428949/c1776ae89e3116b1e76e176a4b0dad8c.webp?size=1024",
+      "avatar": "",
       "style": "red-bloom-card"
     },
     {
@@ -52,10 +51,10 @@
       "avatar": "https://cdn.discordapp.com/avatars/1327667430541099023/a364f7d65a4c2691b936a7070c2c8b7c.webp?size=1024"
     },
     {
-      "username": "oxg (quit, deleted account.",
+      "username": "oxg",
       "userId": "1055188184524406804",
-      "description": "Gone. Deleted his account.",
-      "avatar": "https://cdn.discordapp.com/avatars/1055188184524406804/d0c4bb2955a1db56aa96d0ddfe7595c3.webp?size=1024"
+      "description": "Owner of .soul",
+      "avatar": "https://cdn.discordapp.com/avatars/1055188184524406804/80f4e7ab62d8ab4d85b99ebc844eceb8.webp?size=1024"
     }
   ]
 }
